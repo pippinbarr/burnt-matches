@@ -10,7 +10,7 @@
 *Burnt Matches* was written in [Twine](http://www.twinery.org) (1.4.2). It takes inspiration from _[Into Eternity](http://www.imdb.com/title/tt1194612/)_, directed by Michael Madsen, and inspiration and text from [The Wasteland](http://www.bartleby.com/201/1.html) by T. S. Eliot. The game was made as part of a Deep Time jam organised by the [Speculative Play](http://www.speculativeplay.com/) project at Concordia University.
 
 ## Documentation
-* Read the [Process Documentation](../process) for todos, process journal, process images, blog posts, and correspondence
+* Read the [Process Documentation](../process) for todos, process journal, and blog posts
 * Look at the [Code Repository](https://github.com/pippinbarr/) for source code etc.
 
 ## Press

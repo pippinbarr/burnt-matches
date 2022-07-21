@@ -17,3 +17,6 @@
 Read the [Press Kit](../press) for press information
 
 * Chris Priestman. [Pippin Barr's New Game Brings Concrete Poetry to Life](https://killscreen.com/articles/pippin-barrs-new-game-brings-concrete-poetry-life/). *Kill Screen*, 29 November 2016.
+
+## License
+*Burnt Matches* is licensed under a [Creative Commons Attribution-NonCommercial 3.0 Unported License](http://creativecommons.org/licenses/by-nc/3.0/).
